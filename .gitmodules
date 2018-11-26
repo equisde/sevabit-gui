@@ -1,0 +1,3 @@
+[submodule "sevabit"]
+	path = sevabit
+	url = https://github.com/sevabit-project/sevabit
